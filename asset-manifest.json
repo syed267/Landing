@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Landing-Page.git/static/css/main.9f16015b.css",
-    "main.js": "/Landing-Page.git/static/js/main.158e6df6.js",
-    "static/js/453.3852239a.chunk.js": "/Landing-Page.git/static/js/453.3852239a.chunk.js",
-    "static/media/MRL.avif": "/Landing-Page.git/static/media/MRL.0ae2c1973bed319a8d77.avif",
-    "static/media/safety.avif": "/Landing-Page.git/static/media/safety.2cdeb73e497be14f4b7a.avif",
-    "static/media/AMC.avif": "/Landing-Page.git/static/media/AMC.dcd0f946ead38d4c36b0.avif",
-    "static/media/cabin.avif": "/Landing-Page.git/static/media/cabin.e2f705343c5bf2ce2d4c.avif",
-    "index.html": "/Landing-Page.git/index.html",
-    "main.9f16015b.css.map": "/Landing-Page.git/static/css/main.9f16015b.css.map",
-    "main.158e6df6.js.map": "/Landing-Page.git/static/js/main.158e6df6.js.map",
-    "453.3852239a.chunk.js.map": "/Landing-Page.git/static/js/453.3852239a.chunk.js.map"
+    "main.css": "/Landing/static/css/main.9f16015b.css",
+    "main.js": "/Landing/static/js/main.16cc4a11.js",
+    "static/js/453.3852239a.chunk.js": "/Landing/static/js/453.3852239a.chunk.js",
+    "static/media/MRL.avif": "/Landing/static/media/MRL.0ae2c1973bed319a8d77.avif",
+    "static/media/safety.avif": "/Landing/static/media/safety.2cdeb73e497be14f4b7a.avif",
+    "static/media/AMC.avif": "/Landing/static/media/AMC.dcd0f946ead38d4c36b0.avif",
+    "static/media/cabin.avif": "/Landing/static/media/cabin.e2f705343c5bf2ce2d4c.avif",
+    "index.html": "/Landing/index.html",
+    "main.9f16015b.css.map": "/Landing/static/css/main.9f16015b.css.map",
+    "main.16cc4a11.js.map": "/Landing/static/js/main.16cc4a11.js.map",
+    "453.3852239a.chunk.js.map": "/Landing/static/js/453.3852239a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f16015b.css",
-    "static/js/main.158e6df6.js"
+    "static/js/main.16cc4a11.js"
   ]
 }
